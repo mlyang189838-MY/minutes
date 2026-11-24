@@ -1,4 +1,3 @@
-text
 streamlit
 faster-whisper
 python-docx
